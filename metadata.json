@@ -1,0 +1,6 @@
+{
+  "name": "Welcome Agarbatti - Business & Billing Manager",
+  "description": "Customer management, flexible billing, invoices, and repeat-order reminders for Welcome Agarbatti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
